@@ -13,3 +13,5 @@
 ZielinskiLarissa0/ZielinskiLarissa0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Meu email é [email](larissa.zielinski@escola.pr.gov.br)
